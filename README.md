@@ -1,5 +1,5 @@
 # 美团限时红包,神券自动获取 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=meituan)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shenquan)
 
 ## 1. 本项目优点
 - 部署简单,支持本地，青龙，腾讯云函数等部署方式
