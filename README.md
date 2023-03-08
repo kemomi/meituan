@@ -1,5 +1,5 @@
 # 美团限时红包,神券自动获取 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MeituanRedenvelope)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=meituan)
 
 ## 1. 本项目优点
 - 部署简单,支持本地，青龙，腾讯云函数等部署方式
@@ -36,6 +36,8 @@
 `TG_USER_ID`是你的用户id，如果不会获取的可以点击这个[机器人](https://t.me/myidbot?start=botostore)获取.
 
 ## 启动设置
+
+```python meituan.py```
 
 定时设置建议为`0 11,14,15,16,17,21,0,1,2,3 * * *`
 
