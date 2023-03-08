@@ -1,6 +1,8 @@
 # 美团限时红包,神券自动获取 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shenquan)
 
+![20230308113641](https://user-images.githubusercontent.com/76780905/223613468-6761c3e7-c0de-481e-97fb-f50cfe879de5.png)
+
 ## 1. 本项目优点
 - 部署简单,支持本地，青龙，腾讯云函数等部署方式
 - 简化参数设置
@@ -43,3 +45,6 @@
 
 # Thanks 
 [Vonalien](https://github.com/Vonalien/meituan-shenquan)，[Vonalier](https://github.com/Vonalier/meituan-shenquan) 等脚本
+
+# 测试
+![微信图片_20230308113634](https://user-images.githubusercontent.com/76780905/223613520-4add7122-d3c1-4240-8b88-191e642c1e36.png)
